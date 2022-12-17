@@ -1,5 +1,5 @@
 # Gambling-Game
-Slot machine Gambling Game using basics of Python. Used random and os module.
+Slot machine Gambling Game using basics of Python and modules like random and os.
 
 It is a gambling game using basics of python, here i used random module to spin the slot machine and used os module to clear the console screen. 
 Player can deposit the amount according the choice and make bet between $1 to $100 at a time. 
