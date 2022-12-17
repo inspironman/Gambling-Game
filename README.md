@@ -9,6 +9,6 @@ The lucky character can be either [ A  A  A ] OR [ B  B  B ] OR [ C  C  C ], any
 
 Player can continue to play until he/she have sufficient deposited amount or Exit to play after atleast one bet.
 
-
+<h2>Acknowledgements<\h2>
 
 
